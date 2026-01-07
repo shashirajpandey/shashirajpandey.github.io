@@ -17,6 +17,11 @@ image:
 
 
 <h2 align="center"> <font color="darkmagenta">Academic Service</font></h2>
+  <li><strong>Associate Editor</strong>
+	<ul>
+	<li>IEEE Transactions on Machine Learning in Communications and Networking (TMLCN)</li>
+    </ul>
+  </li>
   <li><strong>Review Editor</strong>
 	<ul>
 	<li>Frontiers in Signal Processing</li>
