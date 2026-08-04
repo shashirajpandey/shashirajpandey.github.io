@@ -1,0 +1,41 @@
+---
+layout: post
+title:  Learning as a Distributed Act of Becoming — a personal tale.
+date:   2026-06-024 15:01:35 +0300
+image:  '/assets/img/demai.png'
+tags: blog
+---
+
+<p>As I see our 27 mo daughter, Aadya, growing up, day by day, my fascination towards how a child learns and sequentially adapts, or rather say integrate themselves to navigate in this complex world (<em>at least from their perspective</em>, I assume) gets compounded. Most of her unorganized actions are, to some extent, goal-driven (which, as a parent, we understand) and fairly land well these days.</p>
+
+<p>Said that, I was (am) often left in awe (my spouse can confirm if you ask), and have roamed around with several unanswered “theoretical” thoughts on “learning”, when together with Aadya —the most pressing one, thinking about learning not as a private accumulation of facts, but as a distributed act of <em>becoming — a tale of democratized learning</em> (Fig.1). This rejuvenated enthusiasm towards “learning” per se didn’t start recently, however. Almost towards the final few years on my PhD journey, we had intial ideas on how learning systems at scale would look like — and reshape, over time, the embedded intelligence in assets (agents, entities, artifacts, — or even humans, which was the basis for all of these thoughts). Our early attempt towards understanding intelligence — Democratized Learning (DemAI), can be read <a href="https://medium.com/r?url=https%3A%2F%2Fshashir101.medium.com%2Fdistributed-and-democratized-learning-philosophy-and-research-challenges-4ef156ed42ca" target="blank">here</a>.</p>
+
+<p>What we call intelligence often looks less like a single powerful center and more like a network of limited parts, each handling a fragment of the whole, each constrained by memory [some early thoughts <a href="https://shashir101.medium.com/intelligence-with-memory-a-limited-dessert-9d3fdb699235" target="blank">here</a>], attention, and context. In that sense, both human learning and machine learning begin from the same reality: <em>we are finite systems trying to make sense of an infinite world</em>.</p>
+
+<p>However, now that finiteness is not a weakness. It is the very condition that makes learning interesting, as I am witnessing — from the first order principles, how Aadya operates daily.</p>
+
+**The key differentiator? from data to learning**
+
+<p>In one of her interviews, Nicole Immorlica (now Professor of Computer Science at Yale) mentions something that was kind of obvious but not so well articulated in thelast couple of years, which she does later there: (rough anecdote) <em>“private data will be the key differentiator, as, more-or-less, all now will have access to similar learning models”</em>. This indicates the value of data and its usage — see the notion of data markets and value <a href="https://petarpopovski-51271.medium.com/data-markets-and-data-valuation-for-internet-of-things-e2a589e40394" target="blank">here</a> (and in <a href="https://arxiv.org/abs/2507.13835" target="blank">this</a> paper), and the idea around “finiteness”.</p>
+
+<p>In distributed AI, this becomes obvious. A centralized system can be powerful, but it is also brittle, memory-heavy, and often difficult to scale. A distributed system, by contrast, must negotiate constraints: limited local data, communication overhead, partial viewpoints, and the need to coordinate without perfect visibility (or <em>full information</em>).</p>
+
+<p>Learning, then, is not just about improving a model; it is about designing a cohort of models that can cooperate, specialize, and generalize — that’s where we talked earlier of *DemAI*, and which is why I find “revisiting” democratized learning so compelling (and obvious!). It suggests that intelligence can emerge from self-organized collaboration among agents that are each incomplete on their own.</p>
+
+<p>Human learning feels remarkably similar. No person learns everything directly. We learn through repetition, stories, teachers, communities, failures, and selective forgetting. <em>Memory is not a storage warehouse; it is a compression system (surely, you have by now read about System 1 and System 2 thinking)</em>. It keeps what matters, discards what does not, and reshapes the past into something usable for the present. If memory were unlimited, perhaps learning would be less urgent. But because it is limited, we are forced to prioritize, simplify, and connect. In that sense, memory is not merely a container for intelligence; it is one of its active constraints.</p>
+
+**Intelligence with memory — a metaphor**
+
+<p>I think, this is where the metaphor of <a href="https://shashirajpandey.github.io/2026/01/01/AI/" target="blank">“intelligence with memory”</a> becomes useful. Intelligence is never free-floating. It always operates under pressure, — and at the integration from memory, time, and energy. A system that remembers too little becomes unstable. A system that remembers too much becomes overloaded. Real intelligence lives in the balance — yin and yang: enough memory to preserve continuity, enough forgetting to remain adaptable. Humans do this naturally. We do not retain every detail of every experience, but we preserve patterns, meanings, and lessons that can be reused in new situations.</p>
+
+<p>The same principle appears in learning communities. Knowledge becomes stronger when it is distributed across many minds, but only if communication is purposeful. Communication is not just transmission; it is alignment. It is the act of making one mind usable by another.</p>
+
+<p>As I put some pretext earlier, if I take it from a goal-oriented perspective, communication succeeds when it changes what a system can do next “ a change in the state”. That is true in organizations, in classrooms, in AI systems, and in the inner conversation a person has with themselves (- a part of reasoning). This perspective also reminds us that learning is never neutral. It is shaped by what a system can afford to store, process, and share. In other words, system-level constraints are not side issues; they are central to the design of intelligence itself. Well, <em>to speak the truth</em> (the phrase I often use from one of my favorites books, The Catcher in the Rye by J. D. Salinger), the most interesting learning systems are not the ones that pretend constraints do not exist, but the ones that organize around them. That’s how, I see, a child learns and grows.</p>
+
+<p>So perhaps learning is best understood as a negotiation between limitation and aspiration — that’s where Aadya is now — in her toddler phase. The limitations are real: finite memory, partial information, imperfect communication, and local context. But aspiration is what gives these limitations meaning. We learn so that our partial understanding can become a little more coordinated, a little more adaptive, and a little more aligned with purpose.</p>
+
+<p>In that sense, the future of learning may not belong to the biggest model or the largest memory, but to the intelligent usage of pivate data, for the most well-organized system of constrained intelligences working toward a shared goal.</p>
+
+<blockquote>"when Aadya grow a bit older, I will ask her how she felt growing up, maybe — only, if she remembers" :) </blockquote>
+
+
