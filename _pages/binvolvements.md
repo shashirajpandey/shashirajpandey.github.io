@@ -23,12 +23,6 @@ image:
 	<li>IEEE IEEE Open Journal of the Communications Society (OJ-COMS)</li>
     </ul>
   </li>
-  <li><strong>Review Editor</strong>
-	<ul>
-	<li>Frontiers in Signal Processing</li>
-	<li>Frontiers in Communications and Networks</li>
-    </ul>
-  </li>
   <li><strong>Technical Program Committee</strong>
 	<ul>
 	<li>VTC2024-Fall -Track: "Machine Learning for Communications", Washington DC</li>	
