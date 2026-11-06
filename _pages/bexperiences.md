@@ -7,11 +7,11 @@ image:
 <h2 align="center"> <font color="darkmagenta">Teaching </font></h2>
 <li> <strong> Organizing a new PhD course </strong> <a href="" target="_blank"> AI for Network Sciences </a><div class="pull-right"> Autumn 2026, Aalborg University</div>
 <li> <strong> PhD course on Wireless Communications for the IoT </strong> <a href="" target="_blank"> AI in (for) 6G, (Data-driven) Optimization </a><div class="pull-right"> Spring 2024, Aalborg University</div>
-<li> <strong>Performance and Reliability Analyses of Communication Networks (CE7-NDS, CE9-AVS, ES7, ES9)</strong> <div class="pull-right"> Fall 2023, Aalborg University</div>
+<li> <strong>Performance and Reliability Analyses of Communication Networks (CE7-NDS, CE9-AVS, ES7, ES9)</strong> <div class="pull-right"> Fall 2023,  2024, 2025, 2026 Aalborg University</div>
 <li> <strong>Advances in Electronic Systems (ES9)</strong> <a href="" target="_blank"> Semantic and Goal-oriented Communications</a><div class="pull-right"> Fall 2023, Aalborg University</div>
-<li> <strong>PhD course on Wireless Communications for the IoT </strong> <a href="" target="_blank"> ML for IoT, TinyML, Data Valuation, Semantic and Goal-oriented Communications</a><div class="pull-right"> Fall 2023, Aalborg University</div>
-<li> <strong>Dependable and Secure Distributed Systems (CE7-NDS )</strong> <a href="" target="_blank"> Distributed Ledger Technologies (DLT), Smart Contracts, Internet of Things (IoT)</a><div class="pull-right"> Fall 2023, Aalborg University</div>
-<li> <strong>Dependable and Secure Distributed Systems (CE7-NDS )</strong> <a href="" target="_blank"> Distributed Ledger Technologies (DLT), Smart Contracts, Internet of Things (IoT)</a><div class="pull-right"> Fall 2022, Aalborg University</div>
+<li> <strong>PhD course on Wireless Communications for the IoT </strong> <a href="" target="_blank"> ML for IoT, TinyML, Data Valuation, Semantic and Goal-oriented Communications</a><div class="pull-right"> Fall 2023, 2024, 2025, 2026 Aalborg University</div>
+<li> <strong>Dependable and Secure Distributed Systems (CE7-NDS )</strong> <a href="" target="_blank"> Distributed Ledger Technologies (DLT), Smart Contracts, Internet of Things (IoT)</a><div class="pull-right"> Fall 2023, 2024, 2025, 2026  Aalborg University</div>
+<li> <strong>Dependable and Secure Distributed Systems (CE7-NDS )</strong> <a href="" target="_blank"> Distributed Ledger Technologies (DLT), Smart Contracts, Internet of Things (IoT)</a><div class="pull-right"> Fall 2022, 2023, 2024, 2025, 2026 Aalborg University</div>
 
 <h2 align="center"> <font color="darkmagenta">Project Supervision (AAU) </font></h2>
 <li> Masters Level, <strong>CE7-NDS (30 ECTS), </strong> <a href="" target="_blank">Application of Double Deep Q-Learning for Malware Defence</a><div class="pull-right"> Fall 2023, Aalborg University</div>
