@@ -68,11 +68,11 @@ image:
 
 <h2 align="center"> <font color="darkmagenta">Memberships</font></h2>
 <ul>
-	<li><b>Editorial Staff,</b> <a href="https://spectrum.ieee.org/st/about" target="_blank">The Institute's Editorial Advisory Board</a><div class="pull-right"> 2022-2024</div></li>
+	<li><b>Editorial Staff,</b> <a href="https://spectrum.ieee.org/st/about" target="_blank">The Institute's Editorial Advisory Board</a><div class="pull-right"> 2022-2027</div></li>
 	<li><b>Member-at-Large,</b> IEEE ComSoc <a href="https://www.comsoc.org/about/boards/line-content-board" target="_blank">On-line Content Board.</a><div class="pull-right"> 2021 - present</div></li>
 	<li><b>Member-at-Large,</b> IEEE ComSoc YP<div class="pull-right"> 2020-2021</div><div class="pull-right"> Managing ComSoc YP online contents and <a 		href="https://yp.comsoc.org/blog/" target="_blank"> blogs.</a></div><div class="pull-right"> Organizing YP events at ComSoc's Flagship Conferences (ICC, Globecom)</div></li>
 	
-	<li><b>IEEE Member</b><div class="pull-right"> 2021 </div></li>
+	<li><b>IEEE Senior Member</b><div class="pull-right"> 2026 </div></li>
     	<li><b>IEEE Student Member</b><div class="pull-right"> 2020-2021</div></li>
 
 	<li><b>IEEE ComSoc Member</b><div class="pull-right"> 2020-present</div></li>
