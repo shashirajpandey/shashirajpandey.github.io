@@ -20,6 +20,7 @@ image:
   <li><strong>Associate Editor</strong>
 	<ul>
 	<li>IEEE Transactions on Machine Learning in Communications and Networking (TMLCN)</li>
+	<li>IEEE IEEE Open Journal of the Communications Society (OJ-COMS)</li>
     </ul>
   </li>
   <li><strong>Review Editor</strong>
