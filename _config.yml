@@ -1,6 +1,6 @@
 title: Shashi Raj Pandey - Forest
 logo:  # you can add own logo.
-description: "| Network Economics | Game Theory | Wireless Communications | Distributed Machine Learning | Data Markets |"
+description: "SMIEE| Network Economics | Game Theory | Wireless Communications | Distributed Machine Learning | Data Markets |"
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "http://shashirajpandey.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
@@ -9,7 +9,7 @@ url: "http://shashirajpandey.github.io" # the base hostname & protocol for your 
 author:
   name: Shashi Raj Pandey
   image: '/assets/img/profile.jpg'
-  job: "a random thought scribbler |SMIEEE|"
+  job: "a random thought scribbler"
   bio: "| Network Economics | Game Theory | Wireless Communications | Distributed Machine Learning | Semantic and Goal-oriented Communications |"
   email: shashir101@gmail.com
 
